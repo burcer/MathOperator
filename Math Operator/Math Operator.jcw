@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Math Operator</label>
+	</settings>
+	<users>
+		<user>
+			<path>Math Operator.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Math Operator\Math Operator.jcp</path>
+		</project>
+	</projects>
+</workspace>

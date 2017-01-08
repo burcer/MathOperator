@@ -1,0 +1,128 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>Math Operator</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Math Operator</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Math Operator\Interaction.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\LibraryPanel.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Algebra.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Complex.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\ComplexAlgebra.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\ComplexDAO.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\DAO.java</path>
+			<source>true</source>
+			<index>6</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Derivative.java</path>
+			<source>true</source>
+			<index>7</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Equation.java</path>
+			<source>true</source>
+			<index>8</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Function.java</path>
+			<source>true</source>
+			<index>9</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Integral.java</path>
+			<source>true</source>
+			<index>10</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\InteractionPanel.java</path>
+			<source>true</source>
+			<index>11</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Limit.java</path>
+			<source>true</source>
+			<index>12</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Operation.java</path>
+			<source>true</source>
+			<index>13</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\PlotPanel.java</path>
+			<source>true</source>
+			<index>14</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Product.java</path>
+			<source>true</source>
+			<index>15</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\Sum.java</path>
+			<source>true</source>
+			<index>16</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\ToolbarPanel.java</path>
+			<source>true</source>
+			<index>17</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Math Operator\ResultPanel.java</path>
+			<source>true</source>
+			<index>18</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
