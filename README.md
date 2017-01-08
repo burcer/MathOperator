@@ -1,10 +1,3 @@
 # MathOperator
 MathOperator: An easy-to-use program with a simple user interface for performing mathematical calculations
-Functons include: 
-  Finding limits of functions at specified points
-  Computing integrals and derivatives using definitions of them, which involves limits
-  Plotting graphs of specified functions
-  Using Newton’s method to solve equations
-  Summation (Σ), product(П) operations
-  Making simple calculations such as calculating root, factorial, power etc.
-  Many other various mathematical operations such as making modular arithmetic and complex number operations, trigonometric and    logarithmic calculations
+Capabilities include: Finding limits of functions at specified points; computing integrals and derivatives given a function definition; plotting graphs of given functions; using Newton’s method to solve equations; summation (Σ) and product(П) operations; making simple calculations such as calculating root, factorial, power etc.; and many other various mathematical operations such as making modular arithmetic and complex number operations, trigonometric and logarithmic calculations.
